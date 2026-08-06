@@ -34,10 +34,12 @@ let div= numOne / numTwo;
 console.log(div);
 
 //CALCULAR EDAD
+
 //CONVERTIR CENTÍMETROS A METROS
 let centimetros = 500;
 let metros=100;
 let conversion= centimetros/metros;
+console.log(conversion);
 //CONVERTIR GRADOS CELSIUS A FAHRENHEIT
 //CALCULAR ÁREA DE UN RECTÁNGULO
 //CALCULAR PERÍMETRO
@@ -48,6 +50,8 @@ let conversion= centimetros/metros;
 let pesos= 17;
 let dolares= 20;
 let dolaresPesos= pesos*dolares;
+
+console.log(dolaresPesos);
 //CALCULAR IVA
 //CALCULAR DESCUENTO
 //CALCULAR INTERÉS SIMPLE
