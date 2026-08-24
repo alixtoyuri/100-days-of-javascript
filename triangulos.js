@@ -19,7 +19,7 @@ numThree = 5;
 if (numOne === numTwo && numTwo===numThree && numOne===numThree){
     console.log("Equilatero");
 } 
-else if (numOne===numTwo || numTwo===numThree || numOne!==numTwo || numOne!==numTwo || numTwo!==numThree){
+else if (numOne===numTwo || numTwo===numThree || numOne===numThree ){
     console.log("Isósceles");
 } 
 else {
