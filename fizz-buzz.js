@@ -19,3 +19,16 @@ Ejemplos:
 15 → "FizzBuzz"
 7  → "7"
 */
+let num = Number(prompt ("Digite un número: "));
+let result="";
+
+if(num % 3 === 0){
+  result += "Fizz";
+}
+if(num%5=== 0){
+  result += "Buzz";
+}
+if(num === ""){
+  return String(num);
+}
+
